@@ -1,0 +1,11 @@
+{
+  "extension_name": {
+    "message": "dict.cn右键菜单"
+  },
+  "extension_description": {
+    "message": "在dict.cn中搜索选择的单词"
+  },
+  "context_menu_search_with_dict_cn": {
+    "message": "在dict.cn中搜索"
+  }
+}

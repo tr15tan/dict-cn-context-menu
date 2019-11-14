@@ -1,0 +1,11 @@
+{
+  "extension_name": {
+    "message": "Dict.cn Context Menu"
+  },
+  "extension_description": {
+    "message": "open dict.cn with selection in new tab"
+  },
+  "context_menu_search_with_dict_cn": {
+    "message": "Search With dict.cn"
+  }
+}
